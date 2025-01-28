@@ -1,0 +1,32 @@
+Three js ;
+
+to create anything in three js it requires 4 things.
+
+1-> Scene
+2-> Camera
+3-> Object
+4-> Renderer
+
+
+
+1-> Scene
+to create a scene in three js we can use THREE.scene
+
+
+2-> Object
+to create a object in threee js we neeed 2 things
+1-> geometrey
+2-> material
+
+-> in three Mesh is the property which combine geometrey and material and provides us a object.
+we also add this mesh into the scene to view object.
+
+3-> Camera
+to create a camera we use THREE.camera
+
+
+---> Transform Objects in Three js
+There is 4 property to trasform object
+1-> position
+2-> rotation
+3-> scale
